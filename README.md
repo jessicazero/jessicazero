@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jessicazero
+- 👋 Hi, I’m Jessica Hung
 - 👀 I’m interested in Data Analysis, Machine Learning and Natural Language Processing
-- 🌱 I’m currently studying Business Analytics at Columbia Engineering
+- 🌱 I’m currently studying Business Analytics at Columbia Engineering School
 - 💞️ I’m looking to collaborate on projects involving text analysis of classical books and movie box office anlaysis
 - 📫 How to reach me LinkedIn: www.linkedin.com/in/jessicahung1 
 
